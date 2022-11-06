@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.hd {
+  color: White;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-img {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  background-size: cover;
+}
